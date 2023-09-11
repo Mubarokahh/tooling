@@ -72,6 +72,6 @@ Default web root:
 ```
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
-Que sera sera  jkbjnbmn,bjnnmmn.;l//
+Que sera sera  jkbjnbmn,bjnnmmn.;l//gfhjvm
 
 
